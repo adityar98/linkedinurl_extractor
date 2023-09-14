@@ -7,3 +7,6 @@ To run the script :
    ***MAKE SURE the column names in csv match to the ones used in codes : ('First Name' , 'Last Name' , 'EMAIL') ****
 2) Update the 'csv_file_path' variable to the path of where the csv file is.
 3) Update the 'output_csv_file' variable to the file name and path where you want to save a new updated CSV file with 'LinkedinURL' column added.
+
+
+***Note Google has rate limits only 70-80 records can be extracted within a span of 1-2 Hours , Post hitting rate limit rerun the script after few hours****
